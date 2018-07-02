@@ -1,0 +1,44 @@
+{
+    "output": "",
+    "generator": "site",
+    "title": "神行者 IPTV 用户手册",
+    "author": "www.xspeeder.com",
+    "description": "",
+    "isbn": "",
+    "extension": "",
+    "plugins": [
+        "prism",
+        "-highlight"
+    ],
+    "style":{
+        "website":"styles/website.css"
+    },
+    "pluginsConfig": {
+        "fontSettings": {
+          "theme": "white",
+          "family": "msyh",
+          "size": 2
+        },
+        "theme-default": {
+            "showLevel": true
+        },
+        "plugins": [
+          "yahei"
+        ]
+    },
+    "variables": {},
+    "links": {},
+    "pdf": {
+        "toc": true,
+        "pageNumbers": true,
+        "fontSize": 14,
+        "fontFamily":"Microsoft YaHei",
+        "paperSize": "a4",
+        "margin": {
+            "right": 36,
+            "left": 36,
+            "top": 48,
+            "bottom": 48
+        }
+    }
+}
